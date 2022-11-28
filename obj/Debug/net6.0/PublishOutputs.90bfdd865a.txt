@@ -1,0 +1,7 @@
+C:\Users\hoann\OneDrive\Desktop\CodeDep\1670WD\ex1\bin\Debug\net6.0\publish\ex1.exe
+C:\Users\hoann\OneDrive\Desktop\CodeDep\1670WD\ex1\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\Users\hoann\OneDrive\Desktop\CodeDep\1670WD\ex1\bin\Debug\net6.0\publish\appsettings.json
+C:\Users\hoann\OneDrive\Desktop\CodeDep\1670WD\ex1\bin\Debug\net6.0\publish\ex1.dll
+C:\Users\hoann\OneDrive\Desktop\CodeDep\1670WD\ex1\bin\Debug\net6.0\publish\ex1.deps.json
+C:\Users\hoann\OneDrive\Desktop\CodeDep\1670WD\ex1\bin\Debug\net6.0\publish\ex1.runtimeconfig.json
+C:\Users\hoann\OneDrive\Desktop\CodeDep\1670WD\ex1\bin\Debug\net6.0\publish\ex1.pdb
